@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400477923929",
+    "project_id": "iotap-47cdd",
+    "storage_bucket": "iotap-47cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400477923929:android:b6db8ff5de6c88668bdf48",
+        "android_client_info": {
+          "package_name": "com.example.iot_ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400477923929-tcajlm26fgmetqqo9g8a93jfclqbk5v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot_ap",
+            "certificate_hash": "1039b2c5545ffa066b376c8e347eb180ab2fab53"
+          }
+        },
+        {
+          "client_id": "400477923929-e23ta8945enrs9ttacucsvf1c677uuci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz0ouh0x3zItLgGnCrQCmWRiLeJ0l_aXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400477923929-e23ta8945enrs9ttacucsvf1c677uuci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
